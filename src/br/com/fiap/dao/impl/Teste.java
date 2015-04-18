@@ -5,4 +5,8 @@ public class Teste {
 //	 oie bye
 	
 	//xaus
+	
+	public Teste() {
+		// TODO Auto-generated constructor stub
+	}
 }
